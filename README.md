@@ -17,3 +17,5 @@ The code for the guided project will be written in a single file for simplicity.
 - [ ] type `yarn` or `npm i` to download dependencies.
 
 Please follow along as the instructor builds the API step by step.
+
+Start
